@@ -1,0 +1,7 @@
+fname: Karan
+lname: Bhat
+email: karan666bhat%40gmail.com
+username: Karan123bhat
+address: HNo 97 Lane 0 Tomal Anand Nagar Bohri Jammu 
+button: Submit
+
